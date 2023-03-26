@@ -1,5 +1,9 @@
 # vue-stopwatch
 
+# You can start the stopwatch by pressing the start button and you can also pause or reset.
+
+# You can add another stopwatch by pressing the plus button
+
 ## Project setup
 ```
 npm install
@@ -19,6 +23,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
